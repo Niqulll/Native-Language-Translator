@@ -1,4 +1,5 @@
-TensorFlow/keras
-matplotlib
-numpy
-NLTK?
+TensorFlow/keras (Machine learning)
+matplotlib (Stats, graph plotting)
+numpy (large data, math)
+NLTK? (Not sure of useful)
+Tesseract (OCR)
