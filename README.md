@@ -1,6 +1,7 @@
 # Native-Language-Translator
 This repository will be used for all code related to the Translator project. For the time being it will be Naskapi, Innu to English
 
+ON HOLD, not enough knowledge/experience to deal with the data I need to use. I will be going through the fast.ai course to see if I can learn anything applicable to this project.
 
 List of current goals:
   - Compile list of needed python libraries
